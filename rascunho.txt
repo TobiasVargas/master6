@@ -1,0 +1,27 @@
+<!--
+
+ <div>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar">Redes Sociais</span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#Facebook"><img src="facebook.png" class="redes_sociais"></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#Instagram"><img src="instagram.png" class="redes_sociais"></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"><img src="whatsapp.png" class="redes_sociais"><b> (35) 9 99564735 ou (35) 9 997356310</b></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+</div>
+
+-->

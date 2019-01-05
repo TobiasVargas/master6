@@ -1,0 +1,81 @@
+/* INDEX.HTML e códigos reaproveitados*/
+
+#a_menu {
+	text-align: center;
+	background-color: #343a40;
+	color: #fff;
+	font-size: 20pt;
+	padding-top: 5px;
+}
+
+#menu_menu {
+	height: auto;
+	width: 100%;
+}
+
+#carrossel {
+	padding-top: 40px;
+}
+
+#a_rodape {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: justify;
+	font-size: 15pt;
+}
+
+.redes_sociais {
+	height: 35px;
+	width: 35px;
+}
+
+body {
+	background-image: linear-gradient(#F0FFFF, 	#B0C4DE);
+
+}
+
+#rodape {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20pt;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	height: auto;
+	width: 100%;
+	background-color: #343a40;
+	color: #fff;
+}
+
+.cor_contato {
+	/*color: #007bff; */
+	color: rgba(255,255,255,.5);
+}
+
+.imagem_navbar {
+	height: 28px;
+	width: 30px;
+}
+
+#div_empresa {
+	text-align: center;
+}
+
+.imagem_empresa {
+	height: 400px;
+	width: auto;
+	padding-top: 40px;
+}
+
+a:link 
+{ 
+text-decoration:none;
+} 
+
+/*
+
+Dimensões das imagens do carrossel:
+
+height: 280px;
+width: 649;
+
+*/
